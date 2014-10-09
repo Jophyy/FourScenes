@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# FourScenes
+#
+
+projectname: FourScenes
+vendorid: com.mycompany
+mainmodule: com.mycompany.fourscenes
